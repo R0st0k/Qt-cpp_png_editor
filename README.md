@@ -16,7 +16,7 @@ The program will continue to run until it is closed.
 
 To run the program, Qt, libpng and zlib libraries are required:
 
-$ sudo apt-install qt5-default
+$ sudo apt install qt5-default
 
 $ sudo apt-get install libpng-dev
 
@@ -58,7 +58,7 @@ P.s. Outlining the white areas didn't work because the green component of each p
 
 Для запуска программы требуется Qt, библиотеки libpng и zlib:
 
-$ sudo apt-install qt5-default
+$ sudo apt install qt5-default
 
 $ sudo apt-get install libpng-dev
 
